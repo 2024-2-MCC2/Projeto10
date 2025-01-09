@@ -58,10 +58,8 @@ A solidariedade impulsiona a SparkEnergy, criando um ambiente onde as pessoas po
 
 ## 🛠 Instalação
 
-Não há instalação!
-Vá para o link: https://sparkenergy.netlify.app/<br/>
-Edit: Esse link serve apenas para a visualização do FrontEnd, pois o serviço Banco de dados estão inativos.<br/>
-  - caso queira ver o site funcionando 100%, siga as instruções abaixo
+Não há instalação!<br/>
+<a href="https://sparkenergy.netlify.app/">Link do nosso site</a><br/>
 <br/>
 
 ## 💻 Configuração para Desenvolvimento
@@ -158,4 +156,3 @@ Aqui estão todas as referências usadas no projeto.
 
 1. <a><a href="https://pt-br.react.dev/reference/react">React</a> - Documentação do React usada para auxíliar no sintaxe e inspiração de códigos.</a> 
 2. <a><a href="https://openai.com/index/chatgpt/">ChatGPT</a> - Inteligência artificial usada para auxíliar na geração de códigos e assistência técnica.</a>
-
